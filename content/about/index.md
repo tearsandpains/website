@@ -36,7 +36,10 @@ to their late husband's Death Certificates, granting them the rightful
 entitlements they deserve. Sadly, the Ghana Bar Association lacks laws in the
 Ghana Law Reports that safeguard surviving spouses from brutal attacks by the
 deceased's extended family members. This gap in legal protection led to my son
-and me facing the wrath of my late husband's family. The United States of
-America has played a crucial role in our lives, and we are grateful for their
-support. May God bless America, and may all glory be to the Almighty God. Amen
-and Amen.
+and me facing the wrath of my late husband's family. 
+
+Additionally, part of our mission is to help communities and churches in need
+with fresh produce.
+The United States of America has played a crucial role in our lives, and we are
+grateful for their support. May God bless America, and may all glory be to the
+Almighty God. Amen and Amen.

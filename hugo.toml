@@ -2,3 +2,6 @@ baseURL = 'https://tearsandpains.org/'
 languageCode = 'en-us'
 title = 'Tears And Pains'
 theme = 'ananke'
+
+[params]
+  body_classes = "avenir bg-moon-grey"
