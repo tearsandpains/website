@@ -4,17 +4,16 @@ seo:
   title: About Me
   description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
   image:
-    src: '/about.jpeg'
+    src: '/benedicta.png'
     alt: A person sitting at a desk in front of a computer
 ---
-
-<!-- ![Alt text for image](/about.jpeg) -->
 
 
 ## Our Story
 
 **Benedicta and Sonnie's Tears and Pains** is a charity dedicated to offering aid and empowerment to abused and overlooked widows. Our mission encompasses not only
 assisting these women in need but also supporting religious activities through the construction of churches in communities lacking access to places of worship.
+
 My mission is to advocate for Ghanaian surviving spouses' access to their late husband's Death Certificates, enabling them to claim what is rightfully theirs.
 The lack of legal protection in the Ghana Law Reports leaves widows vulnerable to mistreatment from extended family members, as my son and I experienced
 firsthand. Benedicta and Sonnies Tears and Pains Charity aims to support abused and neglected widows in Ghana facing challenges in meeting their basic needs,
@@ -29,3 +28,8 @@ My primary objective is to ensure that Ghanaian surviving spouses have access to
 entitlements they deserve. Sadly, the Ghana Bar Association lacks laws in the Ghana Law Reports that safeguard surviving spouses from brutal attacks by the
 deceased's extended family members. This gap in legal protection led to my son and me facing the wrath of my late husband's family. The United States of America
 has played a crucial role in our lives, and we are grateful for their support. May God bless America, and may all glory be to the Almighty God. Amen and Amen.
+
+
+\- Benedicta Delima
+
+![Founder Benedicta Delima](/benedicta.png)

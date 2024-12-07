@@ -68,10 +68,10 @@ const siteConfig: SiteConfig = {
             text: 'About',
             href: '/about'
         },
-        {
-            text: 'Contact',
-            href: '/contact'
-        },
+        //{
+        //    text: 'Contact',
+        //    href: '/contact'
+        //},
         // {
         //     text: 'Terms',
         //     href: '/terms'
@@ -97,7 +97,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         // title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "Benedicta and Sonnie's Tears and Pains is a charity working to help abused and overlooked widows in Ghana get back on their feet. See the <a href='/about'>about page</a> or the <a href='https://www.youtube.com/@WidowAndSon-yy8zt'>YouTube channel</a> to learn more, <a href='/contact'>reach out</a>, or <a href='/donate'>donate</a>.",
+        text: "Benedicta and Sonnie's Tears and Pains is a charity working to help abused and overlooked widows in Ghana get back on their feet. See the <a href='/about'>about page</a> or the <a href='https://www.youtube.com/@WidowAndSon-yy8zt'>YouTube channel</a> to learn more or <a href='/donate'>donate</a>.",
         image: {
             src: '/hero.jpeg',
             alt: 'A person sitting at a desk in front of a computer'
